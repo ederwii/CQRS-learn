@@ -11,5 +11,95 @@
 # User-specific folders
 .vs/
 
-# Others
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.dll
+*.so
+*.so.*
+*.dylib
+*.lib
+*.a
+*.la
+
+# Compiled Static libraries
+*.dll
+*.exe
+*.out
+*.app
+*.i*
+
+# Temporary files
+*_tmp/
+*.tmp
+
+# Uncomment if you have tasks that create source files at runtime
+# *.generated.*
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code Debug
+.vscode/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
+.idea/**/runConfigurations/
+.idea/**/dataSources/
+.idea/**/dataSources.local/
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/gradle.xml
+.idea/**/libraries/
+.idea/**/modules.xml
+.idea/**/externalDependencies.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac System files
+.DS_Store
+
+# Temporary files
+*.log
 *.vsidx
